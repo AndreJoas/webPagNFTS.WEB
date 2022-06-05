@@ -1,0 +1,135 @@
+body{
+    background: linear-gradient(99.74deg, #06DBAC 5.23%, #BD00FF 92.7%);
+
+}
+
+.retangulo{
+    width: 1350px;
+    height: 650px;
+    margin-top: 70px;
+    margin-left: 73px;
+    background: gray;
+    border-radius: 25px;
+    background: #0B0B0D;
+    
+}
+
+.latsup{
+    
+    width: 160px;
+    height: 80px;
+}
+.song{
+     color: #fff;
+     font-size: 29px;
+     margin-left: 26px;
+     margin-top: 18px;
+}
+.nft{
+    color: #fff;
+    font-size: 19px;
+    margin-left: 28px;
+    margin-top: -18px;
+}
+
+
+.menu{
+    position:absolute;
+    list-style: none;
+    float: left;
+    width: 660px;
+    height:50px;
+    align-items: flex;
+    left: 450px;
+    top: 93px;
+    color: white;
+    font-size: 19px;
+    cursor: pointer;
+}
+.menu li{
+    position: relative;
+    float: left;
+}
+.menu li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 39px;
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.5s;
+}
+
+.menu li a:hover{
+    background: #5a33f7 ;
+    color: rgb(38, 171, 26);
+    border-radius: 23px;
+    text-shadow: 0px 0px  5px rgb(53, 48, 193);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.icons{
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1200px;
+    margin-top: -60px;
+}
+
+.titulo{
+
+    width: 600px;
+    height: 90px;
+    color:#fff;
+    margin-top: 70px;
+    margin-left: 30px;
+    font-size: 58px;
+}
+.sub{
+    margin-top: 60px;
+    color: #fff;
+    width: 430px;
+    height: 80px;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.subsub{
+
+    width: 450px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;   
+    margin-top: 70px;
+}
+.solana{
+    font-size: 20px;
+    width: 130px;
+    color: #fff;
+    margin-left: 40px;
+    margin-top: 15px;
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.b1{
+    cursor: pointer;
+    width: 180px;
+    height: 40px;
+    margin-right: 50px;
+    background: transparent;
+    margin-top: 15px;
+    border-radius: 10px;
+    transition: 0.5s;
+    border: solid #fff 1px;
+    color: #fff;
+}
+.b1:hover{
+    background: linear-gradient(99.74deg, #06DBAC 5.23%, #BD00FF 92.7%);
+    border-radius: 54.698px;
+}
+.hand{
+    position: absolute;
+    margin-top: -440px;
+    width: 510px;
+    margin-left: 720px;
+    margin-top: -450px;
+}
